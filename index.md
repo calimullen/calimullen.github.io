@@ -22,7 +22,7 @@ You can find my code review here
 # Enhancment 1: Software Design and Engineering
 ## Original artifact
 This artifact was an assignment I created during my CS-210 course at SNHU. This artifact was a project that required the creation of a 12 and 24- hour clock. The time could be set by the hour, minute, and second by the user and would be displayed as set to the console.
-The original code can be found here:[https://github.com/calimullen/calimullen.github.io/tree/main/Original/CS-210%20Original]
+The original code can be found here:[Original CS-210](https://github.com/calimullen/calimullen.github.io/tree/main/Original/CS-210%20Original)
 
 ## Why I chose this artifact
 The skill I wanted to demonstrate using this artifact is that I am able to reverse engineer an old project and be able to translate it into another language. I find this useful as technology is always evolving in new and different ways, as is programming languages that can become obsolete if they are no longer supported by the creators or the community. Using this skill it helps demonstrate that I can keep up with latest technologies and languages.
@@ -34,12 +34,12 @@ The artifact was improved as it is now written in java. The software will be abl
 ## Reflection
 It was difficult to find a good starting point, however once I found a way to get going, I managed to see the difference on how the two languages have their differences but also similarities on how the interact and with displaying messages to the console and getting inputs from the user.
 
-The Enhancement code can be found here:[https://github.com/calimullen/calimullen.github.io/tree/main/Enhancements/CS-210%20Enhancement%20Software%20design%20and%20engineering]
+The Enhancement code can be found here:[Enhancement 1](https://github.com/calimullen/calimullen.github.io/tree/main/Enhancements/CS-210%20Enhancement%20Software%20design%20and%20engineering)
 
 # Enhancment 2: Algorithms and Data Structures
 ## Original artifact
 This artifact was created during my course in CS360 in which I was tasked to create an app within android studio using the programming language JAVA. The app was to allow the user to keep track of their weight and weight loss progress. Within the app the user was able to create an account and then log-in using their credentials (username and password). Within the backend of the code, SQLite was used to create and store databases that will hold the users credential information and their weight information.
-The original code can be found here:[https://github.com/calimullen/calimullen.github.io/tree/main/Original/CS-360%20Original]
+The original code can be found here:[Original CS-360](https://github.com/calimullen/calimullen.github.io/tree/main/Original/CS-360%20Original)
 
 ## Why I chose this artifact
 I chose this artifact because it was an excellent way for me to highlight my ability to expand upon the existing code by introducing more complexity. With the enhancements, I was able to create a new page that was dedicated to the creation of a new account. Furthermore, creating a more suitable UI being easier for the end user to clearly understand what is happening and what is required of them.
@@ -52,13 +52,13 @@ I was able to meet the course outcome for this enhancement that I had set out in
 ## Reflection
 While I was developing this enhancement the learning curve that I had to manage was “What information” I should gather from the user and was it acceptable for me to ask for certain information. As I could be asking for too much information that may make the user turn away from using my app. In addition, I also saw through research that it is best to inform the user how the data would be used when using the app, again this is to inform the user who may want to know why the app is requiring the data and how it will be used and for privacy and security reasons.
 
-The Enhancement code can be found here:[https://github.com/calimullen/calimullen.github.io/tree/main/Enhancements/CS-360%20Enhancement%20Algorithms%20and%20data%20structure]
+The Enhancement code can be found here:[Enhancement 2](https://github.com/calimullen/calimullen.github.io/tree/main/Enhancements/CS-360%20Enhancement%20Algorithms%20and%20data%20structure)
 
 # Enhancment 3: Databases
 ## Original artifact
 This artifact was created during my course in CS360 in which I was tasked to create an app in android studio using the programming language JAVA. The app was designed to allow the user to keep track of their weight and weight loss progress. 
 In the app, the user was able to create an account and log-in using their credentials (username and password). In the backend of the code, SQLite was used to create and store databases that will hold the users credential information and their weight information.
-The original code can be found here:[https://github.com/calimullen/calimullen.github.io/tree/main/Original/CS-360%20Original]
+The original code can be found here:[Original CS-360](https://github.com/calimullen/calimullen.github.io/tree/main/Original/CS-360%20Original)
 
 ## Why I chose this artifact
 I selected this artifact to enhance because I believed it was a perfect way for me to show case my skill in database and design.  This is because the app heavily utilizes SQLLite to store user information. I was able to edit my design changes of the SQL databases by changing multiple layers. For example, changing what is stored on the table and what is displayed to the user. Additionally, the user is now able to update their information within the app using SQL queries running in the background.
@@ -72,6 +72,6 @@ During my time working on enhancing this artifact there were issues I had come a
 Another issue I came across while developing this enhancement came from creating the ‘Edit Account’ page. I had to decide what information I would like the user to update and ensure that any changes to the username or email did not cause conflicts as these fields are the primary key within my database table. 
 Finally, once the user has made their changes, I wanted to ensure they entered the correct password in the “old password” text box. This is to ensure that it is the actual user who is requesting to make these changes and not an external malicious user.
 
-The Enhancement code can be found here:[https://github.com/calimullen/calimullen.github.io/tree/main/Enhancements/CS-360%20Enhancement%20Database]
+The Enhancement code can be found here:[Enhancement 3](https://github.com/calimullen/calimullen.github.io/tree/main/Enhancements/CS-360%20Enhancement%20Database)
 
 
