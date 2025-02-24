@@ -17,7 +17,7 @@ The first artifact I have chosen to enhance was from a course that I completed i
 The other artifact that I had chosen was from the course CS-360. During my time in this course, I was able to understand the importance of databases, design, and security. I worked with SQLite during the mobile development to store user information and security to ensure that no malicious actors could obtain the information. This artifact enhancement was an opportunity to showcase my Data Structures and Algorithms and Databases skills.
 
 # Code Review
-You can find my code review here
+You can find my code review [here](https://www.youtube.com/watch?v=U-p3jNTa0Fw)
 
 # Enhancment 1: Software Design and Engineering
 ## Original artifact
