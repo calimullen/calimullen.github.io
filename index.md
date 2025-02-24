@@ -1,4 +1,4 @@
-# calimullen.github.io
+# Cali Mullen portfolio
 This is the capstone portfolio for CS499
 
 # Self Assessment
